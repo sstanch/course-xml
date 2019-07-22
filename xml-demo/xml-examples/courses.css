@@ -1,0 +1,11 @@
+@charset "windows-1251";
+courses {display:table; background-color:#FFFF99;}
+course {display:table-row;}	 
+name {display:table-cell; width:20%; border:1 solid blue;}
+code {display:table-cell;  width:5%;}
+domain {display:table-cell; width:10%;}
+instructor {display:table-cell; width:20%;}
+first-name {font-style:italic;}	
+family-name {font-style:italic;}	
+email {font-style:italic; font-weight:bold;}	
+

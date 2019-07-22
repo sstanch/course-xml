@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- Edited with XML Spy v2007 (http://www.altova.com) -->
+<!DOCTYPE note [
+  <!ELEMENT note    (to,from,heading,body,ps)>
+  <!ELEMENT to      (name,family?)>
+  <!ELEMENT from    (name,family?)>
+  <!ELEMENT heading (#PCDATA)>
+  <!ELEMENT body    (#PCDATA)>
+  <!ELEMENT ps    (#PCDATA)>
+  <!ELEMENT name    (#PCDATA)>
+  <!ELEMENT family    (#PCDATA)>
+]>
+<note>
+<to><name>Tove</name><family>Jameson</family></to>
+<from><name>Jany</name></from>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
+<ps>I love you</ps>
+</note> 

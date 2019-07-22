@@ -1,0 +1,58 @@
+<html>
+<body>
+<script type="text/javascript">
+function loadXMLDoc(fname)
+{
+var xmlDoc;
+// code for IE
+if (window.ActiveXObject)
+  {
+  xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
+  }
+// code for Mozilla, Firefox, Opera, etc.
+else if (document.implementation 
+&& document.implementation.createDocument)
+  {
+  xmlDoc=document.implementation.createDocument("","",null);
+  }
+else
+  {
+  alert('Your browser cannot handle this script');
+  }
+xmlDoc.async=false;
+xmlDoc.load(fname);
+return(xmlDoc);
+}
+
+xml=loadXMLDoc("books.xml");
+path="/bookstore/book[price>35] ";
+// code for IE
+if (window.ActiveXObject)
+{
+xml.setProperty("SelectionLanguage","XPath");
+var nodes=xml.selectNodes(path);
+
+for (i=0;i<nodes.length;i++)
+  {
+  document.write(nodes[i].nodeValue);
+  document.write("<br />");
+  }
+}
+// code for Mozilla, Firefox, Opera, etc.
+else if (document.implementation && document.implementation.createDocument)
+{
+var nodes=document.evaluate(path, xml, null, XPathResult.ANY_TYPE,null);
+var result=nodes.iterateNext();
+
+while (result)
+  {
+  document.write(result.childNodes[0].nodeValue);
+  document.write("<br />");
+  result=nodes.iterateNext();
+  }
+}
+</script>
+
+</body>
+</html>
+

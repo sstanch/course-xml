@@ -1,0 +1,5 @@
+@charset "windows-1252";
+ul>li {list-style-type:disk}
+  ul p:first-child {list-style-type:square; color:red}	
+  /*li#li2 {color:red;}	*/  
+  a:hover {color:green; font-size:200%}

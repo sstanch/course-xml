@@ -1,0 +1,79 @@
+<html>		 
+<head> 
+<script> 
+function getNextSibling(node){
+	tmp = node.nextSibling; 
+	while(tmp.nodeType != 1){
+		tmp = tmp.nextSibling;
+	}
+	return tmp;
+}
+</script>
+</head>
+<body>
+<script type="text/javascript">
+var ie = false;
+try //Internet Explorer
+  {
+  xmlDoc=new ActiveXObject("Microsoft.XMLDOM");		   
+  ie=true;
+  }
+catch(e)
+  {
+  try //Firefox, Mozilla, Opera, etc.
+    {
+    xmlDoc=document.implementation.createDocument("","",null);
+    }
+  catch(e) {alert(e.message)}
+  }
+try 
+  {
+  xmlDoc.async=false;
+  xmlDoc.load("books.xml");
+  document.write("xmlDoc is loaded, ready for use <br/>");
+  }
+catch(e) {alert(e.message)}
+		  
+var titles = xmlDoc.getElementsByTagName("title"); 
+var books = xmlDoc.getElementsByTagName("book");	  
+
+document.write(getNextSibling(books[0]).getAttribute("category") + "<br/>");  
+
+for(i=0; i<books.length; i++) {
+	document.writeln("[" +books[i].getAttribute("category") + "] "); 
+	document.writeln(books[i].getElementsByTagName("title")[0].
+		firstChild.nodeValue); 
+	try{
+	document.writeln(" (" +books[i].attributes.
+		getNamedItem("lang").nodeValue + ") <br/>");  
+	}catch(e){document.writeln("(undefined)<br/>");}
+}  
+
+
+titles[0].firstChild.nodeValue="Easy Cooking";
+for(i=0; i<titles.length; i++) {
+	document.writeln(titles[i].firstChild.nodeValue + "<br/>"); 
+	//document.writeln(titles[i].nextSibling.nodeName + "<br/>"); 
+}  
+
+xmlDoc.documentElement.normalize();
+x=xmlDoc.documentElement.childNodes;
+
+for (i=0;i<x.length;i++)
+{ 
+  if (true)
+  {//Process only element nodes (type 1) 
+  document.write(x[i].nodeName);
+  document.write("<br />");
+  } 
+}		
+if(ie){
+	alert(xmlDoc.xml);
+} else { 
+	ser = new XMLSerializer();
+	str = ser.serializeToString(xmlDoc);
+ 	alert(str);
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+    "files": [
+        "./xml-examples/**/*.{html,htm,css,js}"
+    ],
+    "watchOptions": {
+        "ignored": "node_modules"
+    },
+    "server": {
+        "baseDir": "./xml-examples"
+    }
+}

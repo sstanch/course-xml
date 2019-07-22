@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1252"?> 
+<!DOCTYPE order [
+	<!ELEMENT order (name, item, quantity, date, customer)>
+	<!ELEMENT name 	(first, middle, last)> 
+	<!ELEMENT first (#PCDATA)>
+	<!ELEMENT middle (#PCDATA)>
+	<!ELEMENT last (#PCDATA)>
+	<!ELEMENT item (#PCDATA)>
+	<!ELEMENT quantity (#PCDATA)>
+	<!ELEMENT date (m, d, y)>
+	<!ELEMENT m (#PCDATA)>
+	<!ELEMENT d (#PCDATA)>
+	<!ELEMENT y (#PCDATA)>
+	<!ELEMENT customer (#PCDATA)>
+	<!ATTLIST name pid ID #IMPLIED>
+]>
+<order>
+	<name pid="john">
+		<first>John</first>
+		<middle>Fitzgerald Johansen</middle>
+		<last> Doe </last>
+	</name>
+	<item>Production-Class Widget</item>
+	<quantity>16</quantity>
+	<date>
+		<m>1</m>
+		<d>1</d>
+		<y>2005</y>
+	</date>
+	<customer>Sally Finkelstein</customer>
+</order>

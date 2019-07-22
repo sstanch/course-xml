@@ -1,0 +1,67 @@
+CATALOG
+{
+background-color: #ffffff;
+width: 100%;
+}
+CD
+{ 
+counter-increment:cdnum 10; /* Add 1 to chapter */
+/*counter-increment: cdnum; */ /* Add 1 to chapter */
+/*counter-reset: section; */     /* Set section to 0 */
+display: block;
+margin-bottom: 30pt;
+} 
+CD:before
+{ 
+content:counter(cdnum)". ";
+counter-reset: section;
+font-size:200%; 
+color:red;    /* Set section to 0 */
+}  
+CD:first-child {
+font-style:italic;	   
+border:solid 2px red;
+}
+
+CD:first-child + CD + CD{
+font-style:italic;	   
+border:dotted 6px blue;
+} 
+
+TITLE
+{		
+display:block;  	  
+width:100%;
+text-align:ceter;
+font-size:150%;
+color: #FF0000;
+}  
+TITLE[lang~=en]
+{	
+display:none;
+color:green;
+}
+TITLE[lang=en]:before
+{		   
+content:"EN:";	
+color:white;
+background:blue;
+}
+ARTIST
+{
+color: #0000FF;
+font-size: 20pt;
+}
+COUNTRY,PRICE,YEAR,COMPANY
+{
+display: block;
+color: #000000;
+}
+homepage{color:green; display:block; font-weight:bold; border:solid 2px blue}
+homepage:hover {font-size:200%;}
+homepage:focus {color:orange;}	
+homepage:focus:hover {font-size:400%;text-decoration:blink;}
+
+a{color:green; display:block; font-weight:bold; border:solid 2px green}
+a:hover {font-size:200%;}
+

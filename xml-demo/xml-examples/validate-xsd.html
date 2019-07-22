@@ -1,0 +1,66 @@
+<html>
+    <head>
+        <title>XSD validation example</title>
+        <style>
+            #xmlDoc, #xsdDoc {
+                width: 90%;
+                height: 350px;
+            }
+        </style>
+    </head>
+
+<body>
+    <h2>
+        This demonstrates XSD validation:
+    </h2>
+    <h3>XML Document:</h3>
+    <textarea id="xmlDoc"></textarea>
+    
+    <h3>XML Schema Definition:</h3>
+    <textarea id="xsdDoc"></textarea>
+
+    <h3>Errors:</h3>
+    <div id="errors">No XSD validation errors</div>
+    
+    <script src="xmllint.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        var serializer = new XMLSerializer();
+        var xhr = new XMLHttpRequest;
+        xhr.open('GET', 'persons.xml');
+        xhr.responseType = 'document';
+        // Force the response to be parsed as XML
+        xhr.overrideMimeType('text/xml');
+        xhr.onload = function () {
+            if (xhr.readyState === xhr.DONE && xhr.status === 200) {
+                console.log(xhr.response, xhr.responseXML);
+                var xmlDoc = xhr.responseXML;
+                var xmlDocStr = serializer.serializeToString(xmlDoc);
+                document.getElementById('xmlDoc').value = xmlDocStr;
+
+                var xhrXsd = new XMLHttpRequest;
+                xhrXsd.open('GET', 'persons.xsd');
+                xhrXsd.onload = function () {
+                    console.log(xhrXsd.response, xhrXsd.responseXML);
+                    var xsdDoc = xhrXsd.responseXML;
+                    var xsdDocStr = serializer.serializeToString(xsdDoc);
+                    document.getElementById('xsdDoc').value = xsdDocStr;
+                    var result = xmllint.validateXML({
+                        xml:  xmlDocStr,
+                        schema: xsdDocStr,
+                    });
+                    if (result.errors) {
+                        console.log(result.errors);
+                        document.getElementById('errors').innerHTML = JSON.stringify(result.errors);
+                    }
+                }
+                xhrXsd.send();
+            }
+        };
+        xhr.send();
+
+    </script>
+
+</body>
+
+</html>

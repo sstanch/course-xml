@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<parts xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:op="http://sernaferna.com/OrderProcessingSystem">
+	<part>
+		<part-number xlink:type="extended" > 
+			<item xlink:type="resource" xlink:role="op:item" 	
+				xlink:title="Item"/> 
+				<number>E16-25A</number>
+				<description>Production Class Widget</description>
+			</item>	
+			<salesperson xlink:type="locator"
+				xlink:href="http://sernaferna.com/order256.xml #xpointer(id(john)) xpointer(//*[@pid='john'])"
+				xlink:role="op:salesperson"
+				xlink:title="Salesperson"/>
+			<order xlink:type="locator"
+				xlink:href="http://sernaferna.com/order256.xml"
+				xlink:role="op:order"
+				xlink:title="Order"/>
+			<get-order xlink:type="arc"
+				xlink:from="op:salesperson"
+				xlink:to="op:order"
+				xlink:show="replace"
+				xlink:actuate="onRequest"
+				xlink:role="op:get-order"
+				xlink:title="Last order processed."/>
+			<get-salesperson xlink:type="arc"
+				xlink:from="op:order"
+				xlink:to="op:salesperson"
+				xlink:show="replace"
+				xlink:actuate="onRequest"
+				xlink:role="op:get-salesperson"
+				xlink:title="Salesperson's name."/>	  
+			<get-item-order xlink:type="arc"
+				xlink:from="op:item"
+				xlink:to="op:order"
+				xlink:show="new"
+				xlink:actuate="onRequest"
+				xlink:role ="op:get-item-order">
+				<description xlink:type="title" >
+					Last <b>order</b> placed for this <i>item</i>
+				</description>	  
+			</get-item-order>
+		</part-number>		  
+	</part>
+</parts>

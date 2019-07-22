@@ -1,0 +1,29 @@
+{
+  "name": "xml-demo",
+  "version": "1.0.0",
+  "description": "XML processing demos",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iproduct/course-xml.git"
+  },
+  "keywords": [
+    "xml",
+    "demo",
+    "js",
+    "ajax"
+  ],
+  "author": "Trayan Iliev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iproduct/course-xml/issues"
+  },
+  "homepage": "https://github.com/iproduct/course-xml#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}

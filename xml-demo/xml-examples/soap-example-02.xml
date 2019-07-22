@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://schemas.xmlsoap.org/soap/envelope/
+schemas.xmlsoap.org.xsd">
+    <s:Body>
+        <GetCcrInformationResponse>
+            <GetCcrInformationResult>
+                <BalanceExposition>0</BalanceExposition>
+                <Code nil="true" />
+                <CreditCount>0</CreditCount>
+                <CreditsSum>0</CreditsSum>
+                <DelayedSum>0</DelayedSum>
+                <FinancialInstitution>0</FinancialInstitution>
+                <IncorrectStatus>false</IncorrectStatus>
+                <IsNull>true</IsNull>
+                <NewlyCredits>0</NewlyCredits>
+                <RequestType>NoCheckPerformed</RequestType>
+                <Status>Unknown</Status>
+            </GetCcrInformationResult>
+        </GetCcrInformationResponse>
+    </s:Body>
+</s:Envelope>

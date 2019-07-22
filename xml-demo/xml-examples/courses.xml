@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1251"?> 
+<?xml-stylesheet type="text/xsl" href="courses.xsl"?>
+<courses> 
+	<course>
+		<name>Extensible Markup Language - XML</name>
+		<code>IX-01</code>
+		<domain>Informatics - Computer Engineering</domain>
+		<instructor>
+			<first-name>Trayan</first-name>
+			<family-name>Iliev</family-name>
+			<email>tiliev@iproduct.org</email>
+		</instructor> 
+		<course-type>intensive</course-type>
+		<modules number="1"> 
+			<module> 
+				<name>Extensible Markup Language - XML</name>
+				<hours>
+					<lectures>15</lectures>
+					<labs>15</labs>
+				</hours>  
+				<certificate-type>IPT</certificate-type>  
+				<estimation-type>test</estimation-type>
+			</module>
+		</modules>
+	</course>
+	<course>
+		<name>Web Design</name>
+		<code>ID-01</code>
+		<domain>Informatics - Web and Multimedia Design</domain>
+		<instructor>
+			<first-name>Trayan</first-name>
+			<family-name>Iliev</family-name>
+			<email>tiliev@iproduct.org</email>
+		</instructor>
+		<course-type>weekend-intensive</course-type>
+		<modules number="3"> 
+			<module> 
+				<name>Hypertext Markup Language(HTML)</name>
+				<hours>
+					<lectures>10</lectures>
+					<labs>10</labs>
+				</hours>  
+				<certificate-type>IPT</certificate-type>  
+				<estimation-type>test</estimation-type>
+			</module>
+			<module> 
+				<name>Cascading Style Sheets(CSS)</name>
+				<hours>
+					<lectures>5</lectures>
+					<labs>5</labs>
+				</hours>  
+				<certificate-type>IPT</certificate-type>  
+				<estimation-type>test</estimation-type>
+			</module>
+			<module> 
+				<name>Java Script</name>
+				<hours>
+					<lectures>5</lectures>
+					<labs>5</labs>
+				</hours>  
+				<certificate-type>IPT</certificate-type>  
+				<estimation-type>test</estimation-type>
+			</module>
+		</modules>
+	</course>
+</courses>
+	

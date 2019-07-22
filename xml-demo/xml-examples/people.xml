@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<people> 
+	<name first="John" middle="Fitzgerald Johansen" last="Doe">	
+		<position>IT Specialist</position>
+	</name>
+	<name first="Franklin" middle="D." last="Roosevelt"/>
+	<name first="Alfred" middle="E." last="Newman"/>
+	<name first="John" middle="Q." last="Public"/>
+	<name first="Jane" middle="" last="Doe"/>
+</people>

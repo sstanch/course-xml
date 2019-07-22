@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Body xmlns:tns="http://tempuri.org/" xmlns:tns10="http://schemas.datacontract.org/2004/07/SmartIT.Core.ExternalRequests">
+        <tns:GetCcrInformation>
+            <tns:identifier>8888888888</tns:identifier>
+            <tns:checkPeriod>
+                <tns10:_x003C_EndDate_x003E_k__BackingField>2019-07-09</tns10:_x003C_EndDate_x003E_k__BackingField>
+                <tns10:_x003C_StartDate_x003E_k__BackingField>2019-04-09</tns10:_x003C_StartDate_x003E_k__BackingField>
+            </tns:checkPeriod>
+            <tns:userID>D464B048-6808-4C67-A396-80FDE46151C6</tns:userID>
+            <tns:checkCondition>1</tns:checkCondition>
+        </tns:GetCcrInformation>
+    </soap:Body>
+</soap:Envelope>
