@@ -1,0 +1,25 @@
+nutrition::before {
+    content: 'Products Nutrition Values';
+    display: block;
+    font-size: 24px;
+    text-decoration: underline;
+    color: green;
+    margin: 20px;
+}
+daily_values, food {
+    display: table-row;
+}
+vitamins, minerals {
+    display: contents;
+}
+name, manufacturer, size, unit, total_calories, fat_calories, totla_fat, saturated_fat,
+cholesterol, sodium, carbohydrates, fiber, protein, a, c, calcium, iron {
+    display: table-cell;
+    padding: 5px 10px;
+    border: 1px solid lightgreen;
+}
+nutrition {
+    margin: 20px;
+    display: table;
+}
+

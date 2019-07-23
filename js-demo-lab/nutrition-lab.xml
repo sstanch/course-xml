@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="nutrition-lab.css" ?>
+<nutrition>
+    <daily_values>
+        <name></name>
+        <manufacturer></manufacturer>
+        <size></size>
+        <unit></unit>
+        <total_calories></total_calories>
+        <fat_calories></fat_calories>
+        <totla_fat>65</totla_fat>
+        <saturated_fat>20</saturated_fat>
+        <cholesterol>300</cholesterol>
+        <sodium>2400</sodium>
+        <carbohydrates>300</carbohydrates>
+        <fiber>25</fiber>
+        <protein>50</protein>
+        <vitamins>
+            <a>100</a>
+            <c>100</c>
+        </vitamins>
+        <minerals>
+            <calcium>100</calcium>
+            <iron>100</iron>
+        </minerals>
+    </daily_values>
+    
+    <food>
+        <name>Avocado Dip</name>
+        <manufacturer>Sunnydale</manufacturer>
+        <size>29</size>
+        <unit>g</unit>
+        <total_calories>110</total_calories>
+        <fat_calories>100</fat_calories>
+        <totla_fat>11</totla_fat>
+        <saturated_fat>3</saturated_fat>
+        <cholesterol>5</cholesterol>
+        <sodium>210</sodium>
+        <carbohydrates>2</carbohydrates>
+        <fiber>0</fiber>
+        <protein>1</protein>
+        <vitamins>
+            <a>0</a>
+            <c>0</c>
+        </vitamins>
+        <minerals>
+            <calcium>0</calcium>
+            <iron>0</iron>
+        </minerals>
+    </food>
+    <food>
+        <name>Bagels, New York Style</name>
+        <manufacturer>Thompson</manufacturer>
+        <size>104</size>
+        <unit>g</unit>
+        <total_calories>300</total_calories>
+        <fat_calories>35</fat_calories>
+        <totla_fat>4</totla_fat>
+        <saturated_fat>1</saturated_fat>
+        <cholesterol>0</cholesterol>
+        <sodium>510</sodium>
+        <carbohydrates>54</carbohydrates>
+        <fiber>3</fiber>
+        <protein>11</protein>
+        <vitamins>
+            <a>0</a>
+            <c>0</c>
+        </vitamins>
+        <minerals>
+            <calcium>8</calcium>
+            <iron>20</iron>
+        </minerals>
+    </food>
+    <food>
+        <name>Cole Slaw Fresh</name>
+        <manufacturer>Quick</manufacturer>
+        <size>1.5</size>
+        <unit>cup</unit>
+        <total_calories>20</total_calories>
+        <fat_calories>0</fat_calories>
+        <totla_fat>0</totla_fat>
+        <saturated_fat>0</saturated_fat>
+        <cholesterol>0</cholesterol>
+        <sodium>15</sodium>
+        <carbohydrates>5</carbohydrates>
+        <fiber>2</fiber>
+        <protein>1</protein>
+        <vitamins>
+            <a>30</a>
+            <c>45</c>
+        </vitamins>
+        <minerals>
+            <calcium>4</calcium>
+            <iron>2</iron>
+        </minerals>
+    </food>
+    
+</nutrition>
