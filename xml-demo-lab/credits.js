@@ -5,9 +5,8 @@ function init() {
   xhr.onreadystatechange = function() {
     if (xhr.readyState !== 4) return;
     if (xhr.status !== 200) {
-      document.getElementById("application-errors").innerHTML = `HTTP Error: ${
-        xhr.status
-      } - ${xhr.statusText}`;
+      document.getElementById("application-errors").innerHTML = 
+      `HTTP Error: ${xhr.status} - ${xhr.statusText}`;
       return;
     }
     document.getElementById("xml-document").value = xhr.responseText;
@@ -21,6 +20,10 @@ function init() {
 
     // current application
     const appElem = xmlDoc.getElementsByTagName("Application")[0];
+    let appResult = 
+    appElem.firstChild.nextSibling.nextSibling.nextSibling.nodeName; //attributes.getNamedItem('applicationTypeName').value;
+    appResult += 'Status: ' + appElem.lastChild.nodeName; //attributes.getNamedItem('status').value;
+    document.getElementById("current-application").innerHTML = appResult;
 
     // previous credits
     prevCredits = xmlDoc.getElementsByTagName("PreviousCredit");
