@@ -6,11 +6,14 @@ var counter = (function countWithClosure() { //IIFE - Module pattern
     },
     decrement: function () {
       return --count;
+    }, 
+    get: function() {
+      return count;
     }
   };
 })();
 
-
+console.log(counter.get());
 console.log(counter.increment());
 console.log(counter.increment());
 console.log(counter.increment());

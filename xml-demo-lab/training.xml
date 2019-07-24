@@ -1,0 +1,759 @@
+﻿<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" transactionID="DE01ab32264_16bd639946f_0735816bd69bb5bf_0a1f04cb.6">
+  <MFG>
+    <Application applicationNumber="1624BBE0-CCA5-4D90-8B0D-xxxxxxxxxxxx" businessUnit="3593" dateOfCurrentApplication="2019/05/31" applicationPrincipalAmount="200.0" mobilePhone="88888888" applicationEmail="test@gmail.bg" clientConsentNOI="null" clientConsentNOIDate="null" product="41" businessUnitName="VivaCredit">
+      <ApplicationChannel applicationChannelParent="InputChannels" applicationChannelName="Шоп" applicationChannelID="100346" />
+      <LabourRelationship labourRelationshipParent="Вид договор " labourRelationshipName="Безсрочен трудов договор" labourRelationshpID="AE0A2698-0322-47B6-979D-11314746A4B6" />
+      <Education educationParent="Образование" educationName="Висше" educationID="C758299A-9466-4480-B3C9-7F207D173C43" />
+      <ApplicationType applicationTypeParent="тип разглеждане" applicationTypeName="експресно" applicationTypeID="1" />
+      <ClientConsentType clientConsentTypeID="" />
+      <PhoneBillPerMonth phoneBillPerMonthID="" />
+      <MaritalStatus maritalStatusParent="Семейно положение" maritalStatusName="Женен / Омъжена " maritalStatusID="7CE8B032-188D-4080-ADC5-8F675DEF800C" />
+      <Salary salaryID="" />
+      <SphereOfActivity sphereOfActivityID="" />
+      <ThePropertyIs thePropertyIsParent="Живея в " thePropertyIsName="Собствено жилище" thePropertyIsID="C5294AC4-16D4-456D-9CAA-F05419D3940C" />
+      <WayOfObtainingSalary wayOfObtainingSalaryID="" />
+      <Scoring errorMessage="" isRScore="false" scoreClass="1" scoringResult="0" scoringType="0" />
+      <DecisionProcess opinionMessage="Личната карта е проверена. Моля, вижте статуса й в интерфейса" status="TOREVIEW" ruleName="CheckIDCardContinue" timeStamp="2019-07-09 12:16:57.298 GMT" />
+    </Application>
+    <Client clientId="ххххххххххххххххххххххххххххххххх" egn="8888888888" emailHistory="test@gmail.bg" firstName="Иван" lastName="Иванов" secondName="Иванов" mobilePhone="88888888" age="100" iDCardNumber="888888888" iDCardVallidity="false">
+      <AllIDCardNumbers>
+        <Item cardDateOfRecord="2019/02/07" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2018/12/31" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2018/02/12" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2018/01/19" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2017/06/27" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2017/03/24" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2016/12/31" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2016/12/17" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2016/10/21" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2016/09/23" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2016/07/23" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2016/06/25" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2016/06/16" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2016/05/30" cardNumber="888888888"></Item>
+        <Item cardDateOfRecord="2016/04/23" cardNumber="888888888"></Item>
+      </AllIDCardNumbers>
+      <otherContracts checksumPartnerID="3">
+        <Partner partnerNumber="Partner 4" clientIdentity="88888888888" currentDelay="5" maxDelay="0" status="2001" delayedAmount="0.0" />
+      </otherContracts>
+      <PreviousCredits>
+        <PreviousCredit beginDate="null" completeDate="2019/04/03" createDate="2019/02/03" creditMaxDelay="60" creditPrincipalAmount="400.0" creditProduct="NULL" datenum="20190403">
+          <CreditState creditStateID="" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Отхвърлен" creditSubStatusID="2DC76FE5-A066-4282-8CAC-C8039BA374DF" />
+        </PreviousCredit>
+		<PreviousCredit beginDate="2019/02/07" completeDate="2019/02/21" createDate="2019/02/07" creditMaxDelay="0" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20190221" mostRecentofStatusFlag="2" mostRecentFlag="1">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2018/12/31" completeDate="2019/01/07" createDate="2018/12/31" creditMaxDelay="-7" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20190107">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2018/05/21" completeDate="2018/06/01" createDate="2018/05/21" creditMaxDelay="-3" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20180601">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2018/05/07" completeDate="2018/05/21" createDate="2018/05/07" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20180521">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2018/04/23" completeDate="2018/05/07" createDate="2018/04/23" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20180507">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2018/04/09" completeDate="2018/04/23" createDate="2018/04/09" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20180423">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2018/03/26" completeDate="2018/04/09" createDate="2018/03/26" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20180409">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2018/03/12" completeDate="2018/03/26" createDate="2018/03/12" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20180326">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2018/02/26" completeDate="2018/03/12" createDate="2018/02/26" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20180312">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2018/02/12" completeDate="2018/02/26" createDate="2018/02/12" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20180226">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2018/01/19" completeDate="2018/01/30" createDate="2018/01/19" creditMaxDelay="-3" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20180130">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2017/06/27" completeDate="2017/07/07" createDate="2017/06/27" creditMaxDelay="-4" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20170707">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2017/05/19" completeDate="2017/05/25" createDate="2017/05/19" creditMaxDelay="-8" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20170525">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2017/05/05" completeDate="2017/05/19" createDate="2017/05/05" creditMaxDelay="0" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20170519">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2017/04/21" completeDate="2017/05/05" createDate="2017/04/21" creditMaxDelay="0" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20170505">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2017/04/07" completeDate="2017/04/21" createDate="2017/04/07" creditMaxDelay="0" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20170421">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2017/03/24" completeDate="2017/04/07" createDate="2017/03/24" creditMaxDelay="0" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20170407">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2017/02/25" completeDate="2017/03/07" createDate="2017/02/25" creditMaxDelay="-4" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20170307">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2017/02/11" completeDate="2017/02/25" createDate="2017/02/11" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20170225">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2017/01/28" completeDate="2017/02/11" createDate="2017/01/28" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20170211">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2017/01/14" completeDate="2017/01/28" createDate="2017/01/14" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20170128">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2016/12/31" completeDate="2017/01/14" createDate="2016/12/31" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20170114">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2016/12/17" completeDate="2016/12/31" createDate="2016/12/17" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20161231">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2016/11/04" completeDate="2016/11/17" createDate="2016/11/04" creditMaxDelay="-1" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20161117">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2016/10/21" completeDate="2016/11/04" createDate="2016/10/21" creditMaxDelay="0" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20161104">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2016/09/23" completeDate="2016/10/07" createDate="2016/09/23" creditMaxDelay="0" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20161007">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2016/07/23" completeDate="2016/08/02" createDate="2016/07/23" creditMaxDelay="-4" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20160802">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2016/06/25" completeDate="2016/07/08" createDate="2016/06/25" creditMaxDelay="-1" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20160708">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2016/06/16" completeDate="2016/06/23" createDate="2016/06/16" creditMaxDelay="-7" creditPrincipalAmount="300.0" creditProduct="NULL" datenum="20160623">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2016/05/30" completeDate="2016/06/11" createDate="2016/05/30" creditMaxDelay="-6" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20160611">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+        <PreviousCredit beginDate="2016/04/23" completeDate="2016/04/29" createDate="2016/04/23" creditMaxDelay="-8" creditPrincipalAmount="200.0" creditProduct="NULL" datenum="20160429">
+          <CreditState creditStateParent="Състояние" creditStateName="Нормално обслужван" creditStateID="8C0DCFB7-DD21-4AB1-B3A0-9D5AA58EAA58" />
+          <CreditStatus creditStatusParent="Статуси на кредита" creditStatusName="Приключен" creditStatusID="3B3EFC6D-256D-49F4-882B-A0023290834B" />
+          <CreditSubStatus creditSubStatusParent="Приключен" creditSubStatusName="Приключен" creditSubStatusID="9699DEE9-F571-4E93-A8F0-D14E7928B931" />
+        </PreviousCredit>
+      </PreviousCredits>
+      <CCR ccrTotalOverdueAmount="6717.69" ccrCreditsStatus="SeventyFive" />
+    </Client>
+    <Product>
+      <ProductGroups productGroupsName="X1" productGroupsID="3"></ProductGroups>
+      <ProductGroups productGroupsName="X2" productGroupsID="4"></ProductGroups>
+      <ProductGroups productGroupsName="X3" productGroupsID="7"></ProductGroups>
+      <ProductGroups productGroupsName="X4" productGroupsID="21"></ProductGroups>
+      <ProductGroups productGroupsName="X5" productGroupsID="64"></ProductGroups>
+      <ProductGroups productGroupsName="X6" productGroupsID="72"></ProductGroups>
+      <ProductGroups productGroupsName="X7" productGroupsID="101"></ProductGroups>
+      <ProductGroups productGroupsName="X8" productGroupsID="113"></ProductGroups>
+      <ProductGroups productGroupsName="X9" productGroupsID="116"></ProductGroups>
+      <ProductGroups productGroupsName="X10" productGroupsID="60004"></ProductGroups>
+    </Product>
+  </MFG>
+  <Temporary autoCheckCount="7.0" loopCounter="4.0" checksum="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" partner="Partner 11" date="20190221" />
+  <ExternalRawData>
+    <InternalDataLayer>
+      <SmartCheckAPI>
+        <AuthorizationToken rawResponse="{&quot;access_token&quot;:&quot;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&quot;,&quot;expires_in&quot;:3600,&quot;token_type&quot;:&quot;Bearer&quot;}">
+          <ParsedResponse token_type="Bearer" expires_in="3600" access_token="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" />
+        </AuthorizationToken>
+        <GetCreditApplicationData rawResponse="{&quot;data&quot;:{&quot;applicationNumber&quot;:&quot;1624BBE0-CCA5-4D90-8B0D-xxxxxxxxxxxx&quot;,&quot;productId&quot;:41,&quot;laborRelationship&quot;:{&quot;key&quot;:&quot;ae0a2698-0322-47b6-979d-11314746a4b6&quot;,&quot;value&quot;:&quot;Безсрочен трудов договор&quot;,&quot;parentValue&quot;:&quot;Вид договор &quot;,&quot;code&quot;:null},&quot;education&quot;:{&quot;key&quot;:&quot;c758299a-9466-4480-b3c9-7f207d173c43&quot;,&quot;value&quot;:&quot;Висше&quot;,&quot;parentValue&quot;:&quot;Образование&quot;,&quot;code&quot;:null},&quot;mobilePhone&quot;:&quot;0898245625&quot;,&quot;principalAmount&quot;:200.0,&quot;applicationDate&quot;:&quot;2019/05/31&quot;,&quot;applicationType&quot;:{&quot;key&quot;:&quot;1&quot;,&quot;value&quot;:&quot;експресно&quot;,&quot;parentValue&quot;:&quot;тип разглеждане&quot;,&quot;code&quot;:null},&quot;applicationChannel&quot;:{&quot;key&quot;:&quot;100346&quot;,&quot;value&quot;:&quot;Шоп&quot;,&quot;parentValue&quot;:&quot;InputChannels&quot;,&quot;code&quot;:null},&quot;extensionData&quot;:{},&quot;clientId&quot;:&quot;ff3a90b9-ac78-418d-b83b-3042e2e028a1&quot;,&quot;email&quot;:&quot;test@gmail.bg&quot;,&quot;clientConsent&quot;:null,&quot;salaryAmount&quot;:null,&quot;clientConsentDate&quot;:null,&quot;clientConsentType&quot;:null,&quot;howMuchIsYourPhoneBillPerMonth&quot;:null,&quot;maritalStatus&quot;:{&quot;key&quot;:&quot;7ce8b032-188d-4080-adc5-8f675def800c&quot;,&quot;value&quot;:&quot;Женен / Омъжена &quot;,&quot;parentValue&quot;:&quot;Семейно положение&quot;,&quot;code&quot;:null},&quot;salary&quot;:null,&quot;sphereOfActivity&quot;:null,&quot;thePropertyIs&quot;:{&quot;key&quot;:&quot;c5294ac4-16d4-456d-9caa-f05419d3940c&quot;,&quot;value&quot;:&quot;Собствено жилище&quot;,&quot;parentValue&quot;:&quot;Живея в &quot;,&quot;code&quot;:null},&quot;wayOfObtainingSalary&quot;:null},&quot;errors&quot;:[]}">
+          <ParsedResponse>
+            <data clientId="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" productId="41" applicationNumber="1624BBE0-CCA5-4D90-8B0D-xxxxxxxxxxxx" principalAmount="200.0" mobilePhone="088888888" applicationDate="2019/05/31" email="test@gmail" clientConsent="null" clientConsentDate="null" salaryAmount="null">
+              <extensionData></extensionData>
+              <Education parentValue="Образование" value="Висше" key="c758299a-9466-4480-b3c9-7f207d173c43" />
+              <LabourRelationship parentValue="Вид договор " value="Безсрочен трудов договор" key="ae0a2698-0322-47b6-979d-11314746a4b6" />
+              <ApplicationType parentValue="тип разглеждане" value="експресно" key="1" />
+              <ApplicationChannel parentValue="InputChannels" value="Шоп" key="100346" />
+              <MaritalStatus parentValue="Семейно положение" value="Женен / Омъжена " key="7ce8b032-188d-4080-adc5-8f675def800c" />
+              <PropertyIs parentValue="Живея в " value="Собствено жилище" key="c5294ac4-16d4-456d-9caa-f05419d3940c" />
+            </data>
+          </ParsedResponse>
+        </GetCreditApplicationData>
+        <GetClientData rawResponse="{&quot;data&quot;:{&quot;extensionData&quot;:{},&quot;firstName&quot;:&quot;Иван&quot;,&quot;secondName&quot;:&quot;Иванов&quot;,&quot;lastName&quot;:&quot;Иванов&quot;,&quot;egn&quot;:&quot;8888888888&quot;,&quot;age&quot;:53,&quot;mobilePhone&quot;:&quot;088888888&quot;,&quot;email&quot;:&quot;test@gmail.bg&quot;,&quot;idCards&quot;:[{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2019/02/07&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2018/12/31&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2018/02/12&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2018/01/19&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2017/06/27&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2017/03/24&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2016/12/31&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2016/12/17&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2016/10/21&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2016/09/23&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2016/07/23&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2016/06/25&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2016/06/16&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2016/05/30&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;},{&quot;extensionData&quot;:{},&quot;cardIdDateOfRecord&quot;:&quot;2016/04/23&quot;,&quot;cardIdNumber&quot;:&quot;999999999&quot;}],&quot;idCardNumber&quot;:&quot;999999999&quot;,&quot;gender&quot;:null,&quot;currentAddress&quot;:null,&quot;idCardAddress&quot;:null,&quot;deliveryAddress&quot;:null},&quot;errors&quot;:[]}">
+          <ParsedResponse>
+            <data firstName="Иван" lastName="Иванов" mobilePhone="088888888" egn="8888888888" age="53" emailHistory="test@gmail.bg" secondName="Иванов" idCardNumber="888888888">
+              <idCards>
+                <ArrayElementObject cardIdDateOfRecord="2019/02/07" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2018/12/31" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2018/02/12" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2018/01/19" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2017/06/27" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2017/03/24" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2016/12/31" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2016/12/17" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2016/10/21" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2016/09/23" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2016/07/23" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2016/06/25" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2016/06/16" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2016/05/30" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+                <ArrayElementObject cardIdDateOfRecord="2016/04/23" idcardNumber="888888888">
+                  <extensionData></extensionData>
+                </ArrayElementObject>
+              </idCards>
+              <extentionData></extentionData>
+            </data>
+            <errors></errors>
+          </ParsedResponse>
+        </GetClientData>
+        <GetProductGroups rawResponse="{&quot;data&quot;:{&quot;productGroups&quot;:[{&quot;id&quot;:3,&quot;name&quot;:&quot;Rolls&quot;},{&quot;id&quot;:4,&quot;name&quot;:&quot;ScoringProducts&quot;},{&quot;id&quot;:7,&quot;name&quot;:&quot;WithOneGuarantor&quot;},{&quot;id&quot;:21,&quot;name&quot;:&quot;AllowToBeRefinanced&quot;},{&quot;id&quot;:64,&quot;name&quot;:&quot;VivaExpressProduct&quot;},{&quot;id&quot;:72,&quot;name&quot;:&quot;VivaProductWithDocType&quot;},{&quot;id&quot;:101,&quot;name&quot;:&quot;VivaExpress14&quot;},{&quot;id&quot;:113,&quot;name&quot;:&quot;ProductWithTask&quot;},{&quot;id&quot;:116,&quot;name&quot;:&quot;VivaExpress14Sms&quot;},{&quot;id&quot;:60004,&quot;name&quot;:&quot;VivaCredit 1.1.2016&quot;}]},&quot;errors&quot;:[]}">
+          <ParsedResponse>
+            <data>
+              <productGroups>
+                <ArrayElementObject id="3" name="Rolls" />
+                <ArrayElementObject id="4" name="ScoringProducts" />
+                <ArrayElementObject id="7" name="WithOneGuarantor" />
+                <ArrayElementObject id="21" name="AllowToBeRefinanced" />
+                <ArrayElementObject id="64" name="VivaExpressProduct" />
+                <ArrayElementObject id="72" name="VivaProductWithDocType" />
+                <ArrayElementObject id="101" name="VivaExpress14" />
+                <ArrayElementObject id="113" name="ProductWithTask" />
+                <ArrayElementObject id="116" name="VivaExpress14Sms" />
+                <ArrayElementObject id="60004" name="VivaCredit 1.1.2016" />
+              </productGroups>
+            </data>
+          </ParsedResponse>
+        </GetProductGroups>
+        <GetAllClientApplications rawResponse="{&quot;data&quot;:{&quot;allClientApplications&quot;:[{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2019/02/07&quot;,&quot;completeDate&quot;:&quot;2019/02/21&quot;,&quot;createDate&quot;:&quot;2019/02/07&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2019/02/07&quot;,&quot;completeDate&quot;:&quot;2019/02/21&quot;,&quot;createDate&quot;:&quot;2019/02/07&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2018/12/31&quot;,&quot;completeDate&quot;:&quot;2019/01/07&quot;,&quot;createDate&quot;:&quot;2018/12/31&quot;,&quot;maxDelay&quot;:-7,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2018/12/31&quot;,&quot;completeDate&quot;:&quot;2019/01/07&quot;,&quot;createDate&quot;:&quot;2018/12/31&quot;,&quot;maxDelay&quot;:-7,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2018/05/21&quot;,&quot;completeDate&quot;:&quot;2018/06/01&quot;,&quot;createDate&quot;:&quot;2018/05/21&quot;,&quot;maxDelay&quot;:-3,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2018/05/21&quot;,&quot;completeDate&quot;:&quot;2018/06/01&quot;,&quot;createDate&quot;:&quot;2018/05/21&quot;,&quot;maxDelay&quot;:-3,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2018/05/07&quot;,&quot;completeDate&quot;:&quot;2018/05/21&quot;,&quot;createDate&quot;:&quot;2018/05/07&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2018/05/07&quot;,&quot;completeDate&quot;:&quot;2018/05/21&quot;,&quot;createDate&quot;:&quot;2018/05/07&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2018/04/23&quot;,&quot;completeDate&quot;:&quot;2018/05/07&quot;,&quot;createDate&quot;:&quot;2018/04/23&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2018/04/23&quot;,&quot;completeDate&quot;:&quot;2018/05/07&quot;,&quot;createDate&quot;:&quot;2018/04/23&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2018/04/09&quot;,&quot;completeDate&quot;:&quot;2018/04/23&quot;,&quot;createDate&quot;:&quot;2018/04/09&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2018/04/09&quot;,&quot;completeDate&quot;:&quot;2018/04/23&quot;,&quot;createDate&quot;:&quot;2018/04/09&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2018/03/26&quot;,&quot;completeDate&quot;:&quot;2018/04/09&quot;,&quot;createDate&quot;:&quot;2018/03/26&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2018/03/26&quot;,&quot;completeDate&quot;:&quot;2018/04/09&quot;,&quot;createDate&quot;:&quot;2018/03/26&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2018/03/12&quot;,&quot;completeDate&quot;:&quot;2018/03/26&quot;,&quot;createDate&quot;:&quot;2018/03/12&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2018/03/12&quot;,&quot;completeDate&quot;:&quot;2018/03/26&quot;,&quot;createDate&quot;:&quot;2018/03/12&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2018/02/26&quot;,&quot;completeDate&quot;:&quot;2018/03/12&quot;,&quot;createDate&quot;:&quot;2018/02/26&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2018/02/26&quot;,&quot;completeDate&quot;:&quot;2018/03/12&quot;,&quot;createDate&quot;:&quot;2018/02/26&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2018/02/12&quot;,&quot;completeDate&quot;:&quot;2018/02/26&quot;,&quot;createDate&quot;:&quot;2018/02/12&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2018/02/12&quot;,&quot;completeDate&quot;:&quot;2018/02/26&quot;,&quot;createDate&quot;:&quot;2018/02/12&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2018/01/19&quot;,&quot;completeDate&quot;:&quot;2018/01/30&quot;,&quot;createDate&quot;:&quot;2018/01/19&quot;,&quot;maxDelay&quot;:-3,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2018/01/19&quot;,&quot;completeDate&quot;:&quot;2018/01/30&quot;,&quot;createDate&quot;:&quot;2018/01/19&quot;,&quot;maxDelay&quot;:-3,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2017/06/27&quot;,&quot;completeDate&quot;:&quot;2017/07/07&quot;,&quot;createDate&quot;:&quot;2017/06/27&quot;,&quot;maxDelay&quot;:-4,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2017/06/27&quot;,&quot;completeDate&quot;:&quot;2017/07/07&quot;,&quot;createDate&quot;:&quot;2017/06/27&quot;,&quot;maxDelay&quot;:-4,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2017/05/19&quot;,&quot;completeDate&quot;:&quot;2017/05/25&quot;,&quot;createDate&quot;:&quot;2017/05/19&quot;,&quot;maxDelay&quot;:-8,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2017/05/19&quot;,&quot;completeDate&quot;:&quot;2017/05/25&quot;,&quot;createDate&quot;:&quot;2017/05/19&quot;,&quot;maxDelay&quot;:-8,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2017/05/05&quot;,&quot;completeDate&quot;:&quot;2017/05/19&quot;,&quot;createDate&quot;:&quot;2017/05/05&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2017/05/05&quot;,&quot;completeDate&quot;:&quot;2017/05/19&quot;,&quot;createDate&quot;:&quot;2017/05/05&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2017/04/21&quot;,&quot;completeDate&quot;:&quot;2017/05/05&quot;,&quot;createDate&quot;:&quot;2017/04/21&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2017/04/21&quot;,&quot;completeDate&quot;:&quot;2017/05/05&quot;,&quot;createDate&quot;:&quot;2017/04/21&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2017/04/07&quot;,&quot;completeDate&quot;:&quot;2017/04/21&quot;,&quot;createDate&quot;:&quot;2017/04/07&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2017/04/07&quot;,&quot;completeDate&quot;:&quot;2017/04/21&quot;,&quot;createDate&quot;:&quot;2017/04/07&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2017/03/24&quot;,&quot;completeDate&quot;:&quot;2017/04/07&quot;,&quot;createDate&quot;:&quot;2017/03/24&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2017/03/24&quot;,&quot;completeDate&quot;:&quot;2017/04/07&quot;,&quot;createDate&quot;:&quot;2017/03/24&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2017/02/25&quot;,&quot;completeDate&quot;:&quot;2017/03/07&quot;,&quot;createDate&quot;:&quot;2017/02/25&quot;,&quot;maxDelay&quot;:-4,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2017/02/25&quot;,&quot;completeDate&quot;:&quot;2017/03/07&quot;,&quot;createDate&quot;:&quot;2017/02/25&quot;,&quot;maxDelay&quot;:-4,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2017/02/11&quot;,&quot;completeDate&quot;:&quot;2017/02/25&quot;,&quot;createDate&quot;:&quot;2017/02/11&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2017/02/11&quot;,&quot;completeDate&quot;:&quot;2017/02/25&quot;,&quot;createDate&quot;:&quot;2017/02/11&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2017/01/28&quot;,&quot;completeDate&quot;:&quot;2017/02/11&quot;,&quot;createDate&quot;:&quot;2017/01/28&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2017/01/28&quot;,&quot;completeDate&quot;:&quot;2017/02/11&quot;,&quot;createDate&quot;:&quot;2017/01/28&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2017/01/14&quot;,&quot;completeDate&quot;:&quot;2017/01/28&quot;,&quot;createDate&quot;:&quot;2017/01/14&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2017/01/14&quot;,&quot;completeDate&quot;:&quot;2017/01/28&quot;,&quot;createDate&quot;:&quot;2017/01/14&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2016/12/31&quot;,&quot;completeDate&quot;:&quot;2017/01/14&quot;,&quot;createDate&quot;:&quot;2016/12/31&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2016/12/31&quot;,&quot;completeDate&quot;:&quot;2017/01/14&quot;,&quot;createDate&quot;:&quot;2016/12/31&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2016/12/17&quot;,&quot;completeDate&quot;:&quot;2016/12/31&quot;,&quot;createDate&quot;:&quot;2016/12/17&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2016/12/17&quot;,&quot;completeDate&quot;:&quot;2016/12/31&quot;,&quot;createDate&quot;:&quot;2016/12/17&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2016/11/04&quot;,&quot;completeDate&quot;:&quot;2016/11/17&quot;,&quot;createDate&quot;:&quot;2016/11/04&quot;,&quot;maxDelay&quot;:-1,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2016/11/04&quot;,&quot;completeDate&quot;:&quot;2016/11/17&quot;,&quot;createDate&quot;:&quot;2016/11/04&quot;,&quot;maxDelay&quot;:-1,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2016/10/21&quot;,&quot;completeDate&quot;:&quot;2016/11/04&quot;,&quot;createDate&quot;:&quot;2016/10/21&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2016/10/21&quot;,&quot;completeDate&quot;:&quot;2016/11/04&quot;,&quot;createDate&quot;:&quot;2016/10/21&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2016/09/23&quot;,&quot;completeDate&quot;:&quot;2016/10/07&quot;,&quot;createDate&quot;:&quot;2016/09/23&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2016/09/23&quot;,&quot;completeDate&quot;:&quot;2016/10/07&quot;,&quot;createDate&quot;:&quot;2016/09/23&quot;,&quot;maxDelay&quot;:0,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2016/07/23&quot;,&quot;completeDate&quot;:&quot;2016/08/02&quot;,&quot;createDate&quot;:&quot;2016/07/23&quot;,&quot;maxDelay&quot;:-4,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2016/07/23&quot;,&quot;completeDate&quot;:&quot;2016/08/02&quot;,&quot;createDate&quot;:&quot;2016/07/23&quot;,&quot;maxDelay&quot;:-4,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2016/06/25&quot;,&quot;completeDate&quot;:&quot;2016/07/08&quot;,&quot;createDate&quot;:&quot;2016/06/25&quot;,&quot;maxDelay&quot;:-1,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2016/06/25&quot;,&quot;completeDate&quot;:&quot;2016/07/08&quot;,&quot;createDate&quot;:&quot;2016/06/25&quot;,&quot;maxDelay&quot;:-1,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2016/06/16&quot;,&quot;completeDate&quot;:&quot;2016/06/23&quot;,&quot;createDate&quot;:&quot;2016/06/16&quot;,&quot;maxDelay&quot;:-7,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2016/06/16&quot;,&quot;completeDate&quot;:&quot;2016/06/23&quot;,&quot;createDate&quot;:&quot;2016/06/16&quot;,&quot;maxDelay&quot;:-7,&quot;principalAmount&quot;:300.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2016/05/30&quot;,&quot;completeDate&quot;:&quot;2016/06/11&quot;,&quot;createDate&quot;:&quot;2016/05/30&quot;,&quot;maxDelay&quot;:-6,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2016/05/30&quot;,&quot;completeDate&quot;:&quot;2016/06/11&quot;,&quot;createDate&quot;:&quot;2016/05/30&quot;,&quot;maxDelay&quot;:-6,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null},{&quot;extensionData&quot;:{},&quot;beginDate&quot;:&quot;2016/04/23&quot;,&quot;completeDate&quot;:&quot;2016/04/29&quot;,&quot;createDate&quot;:&quot;2016/04/23&quot;,&quot;maxDelay&quot;:-8,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null,&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;subStatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;credit&quot;:{&quot;status&quot;:{&quot;key&quot;:&quot;3b3efc6d-256d-49f4-882b-a0023290834b&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Статуси на кредита&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;substatus&quot;:{&quot;key&quot;:&quot;9699dee9-f571-4e93-a8f0-d14e7928b931&quot;,&quot;value&quot;:&quot;Приключен&quot;,&quot;parentValue&quot;:&quot;Приключен&quot;,&quot;code&quot;:&quot;Приключен&quot;},&quot;state&quot;:{&quot;key&quot;:&quot;8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58&quot;,&quot;value&quot;:&quot;Нормално обслужван&quot;,&quot;parentValue&quot;:&quot;Състояние&quot;,&quot;code&quot;:&quot;Нормално обслужван&quot;},&quot;beginDate&quot;:&quot;2016/04/23&quot;,&quot;completeDate&quot;:&quot;2016/04/29&quot;,&quot;createDate&quot;:&quot;2016/04/23&quot;,&quot;maxDelay&quot;:-8,&quot;principalAmount&quot;:200.0,&quot;product&quot;:null},&quot;position&quot;:null,&quot;reason&quot;:null,&quot;cardStatus&quot;:null,&quot;cardSubStatus&quot;:null}]},&quot;errors&quot;:[]}">
+          <ParsedResponse>
+            <data>
+              <allClientApplications>
+                <ArrayElementObject maxDelay="0" beginDate="2019/02/07" product="null" principalAmount="200.0" completeDate="2019/02/21" createDate="2019/02/07">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2019/02/07" product="null" principalAmount="200.0" completeDate="2019/02/21" createDate="2019/02/07">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-7" beginDate="2018/12/31" product="null" principalAmount="200.0" completeDate="2019/01/07" createDate="2018/12/31">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-7" beginDate="2018/12/31" product="null" principalAmount="200.0" completeDate="2019/01/07" createDate="2018/12/31">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-3" beginDate="2018/05/21" product="null" principalAmount="300.0" completeDate="2018/06/01" createDate="2018/05/21">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-3" beginDate="2018/05/21" product="null" principalAmount="300.0" completeDate="2018/06/01" createDate="2018/05/21">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2018/05/07" product="null" principalAmount="300.0" completeDate="2018/05/21" createDate="2018/05/07">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2018/05/07" product="null" principalAmount="300.0" completeDate="2018/05/21" createDate="2018/05/07">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2018/04/23" product="null" principalAmount="300.0" completeDate="2018/05/07" createDate="2018/04/23">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2018/04/23" product="null" principalAmount="300.0" completeDate="2018/05/07" createDate="2018/04/23">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2018/04/09" product="null" principalAmount="300.0" completeDate="2018/04/23" createDate="2018/04/09">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2018/04/09" product="null" principalAmount="300.0" completeDate="2018/04/23" createDate="2018/04/09">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2018/03/26" product="null" principalAmount="300.0" completeDate="2018/04/09" createDate="2018/03/26">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2018/03/26" product="null" principalAmount="300.0" completeDate="2018/04/09" createDate="2018/03/26">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2018/03/12" product="null" principalAmount="300.0" completeDate="2018/03/26" createDate="2018/03/12">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2018/03/12" product="null" principalAmount="300.0" completeDate="2018/03/26" createDate="2018/03/12">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2018/02/26" product="null" principalAmount="300.0" completeDate="2018/03/12" createDate="2018/02/26">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2018/02/26" product="null" principalAmount="300.0" completeDate="2018/03/12" createDate="2018/02/26">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2018/02/12" product="null" principalAmount="300.0" completeDate="2018/02/26" createDate="2018/02/12">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2018/02/12" product="null" principalAmount="300.0" completeDate="2018/02/26" createDate="2018/02/12">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-3" beginDate="2018/01/19" product="null" principalAmount="200.0" completeDate="2018/01/30" createDate="2018/01/19">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-3" beginDate="2018/01/19" product="null" principalAmount="200.0" completeDate="2018/01/30" createDate="2018/01/19">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-4" beginDate="2017/06/27" product="null" principalAmount="300.0" completeDate="2017/07/07" createDate="2017/06/27">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-4" beginDate="2017/06/27" product="null" principalAmount="300.0" completeDate="2017/07/07" createDate="2017/06/27">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-8" beginDate="2017/05/19" product="null" principalAmount="200.0" completeDate="2017/05/25" createDate="2017/05/19">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-8" beginDate="2017/05/19" product="null" principalAmount="200.0" completeDate="2017/05/25" createDate="2017/05/19">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2017/05/05" product="null" principalAmount="200.0" completeDate="2017/05/19" createDate="2017/05/05">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2017/05/05" product="null" principalAmount="200.0" completeDate="2017/05/19" createDate="2017/05/05">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2017/04/21" product="null" principalAmount="200.0" completeDate="2017/05/05" createDate="2017/04/21">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2017/04/21" product="null" principalAmount="200.0" completeDate="2017/05/05" createDate="2017/04/21">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2017/04/07" product="null" principalAmount="200.0" completeDate="2017/04/21" createDate="2017/04/07">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2017/04/07" product="null" principalAmount="200.0" completeDate="2017/04/21" createDate="2017/04/07">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2017/03/24" product="null" principalAmount="200.0" completeDate="2017/04/07" createDate="2017/03/24">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2017/03/24" product="null" principalAmount="200.0" completeDate="2017/04/07" createDate="2017/03/24">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-4" beginDate="2017/02/25" product="null" principalAmount="300.0" completeDate="2017/03/07" createDate="2017/02/25">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-4" beginDate="2017/02/25" product="null" principalAmount="300.0" completeDate="2017/03/07" createDate="2017/02/25">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2017/02/11" product="null" principalAmount="300.0" completeDate="2017/02/25" createDate="2017/02/11">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2017/02/11" product="null" principalAmount="300.0" completeDate="2017/02/25" createDate="2017/02/11">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2017/01/28" product="null" principalAmount="300.0" completeDate="2017/02/11" createDate="2017/01/28">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2017/01/28" product="null" principalAmount="300.0" completeDate="2017/02/11" createDate="2017/01/28">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2017/01/14" product="null" principalAmount="300.0" completeDate="2017/01/28" createDate="2017/01/14">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2017/01/14" product="null" principalAmount="300.0" completeDate="2017/01/28" createDate="2017/01/14">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2016/12/31" product="null" principalAmount="300.0" completeDate="2017/01/14" createDate="2016/12/31">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2016/12/31" product="null" principalAmount="300.0" completeDate="2017/01/14" createDate="2016/12/31">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2016/12/17" product="null" principalAmount="300.0" completeDate="2016/12/31" createDate="2016/12/17">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2016/12/17" product="null" principalAmount="300.0" completeDate="2016/12/31" createDate="2016/12/17">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-1" beginDate="2016/11/04" product="null" principalAmount="200.0" completeDate="2016/11/17" createDate="2016/11/04">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-1" beginDate="2016/11/04" product="null" principalAmount="200.0" completeDate="2016/11/17" createDate="2016/11/04">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2016/10/21" product="null" principalAmount="200.0" completeDate="2016/11/04" createDate="2016/10/21">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2016/10/21" product="null" principalAmount="200.0" completeDate="2016/11/04" createDate="2016/10/21">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="0" beginDate="2016/09/23" product="null" principalAmount="300.0" completeDate="2016/10/07" createDate="2016/09/23">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="0" beginDate="2016/09/23" product="null" principalAmount="300.0" completeDate="2016/10/07" createDate="2016/09/23">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-4" beginDate="2016/07/23" product="null" principalAmount="200.0" completeDate="2016/08/02" createDate="2016/07/23">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-4" beginDate="2016/07/23" product="null" principalAmount="200.0" completeDate="2016/08/02" createDate="2016/07/23">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-1" beginDate="2016/06/25" product="null" principalAmount="300.0" completeDate="2016/07/08" createDate="2016/06/25">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-1" beginDate="2016/06/25" product="null" principalAmount="300.0" completeDate="2016/07/08" createDate="2016/06/25">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-7" beginDate="2016/06/16" product="null" principalAmount="300.0" completeDate="2016/06/23" createDate="2016/06/16">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-7" beginDate="2016/06/16" product="null" principalAmount="300.0" completeDate="2016/06/23" createDate="2016/06/16">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-6" beginDate="2016/05/30" product="null" principalAmount="200.0" completeDate="2016/06/11" createDate="2016/05/30">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-6" beginDate="2016/05/30" product="null" principalAmount="200.0" completeDate="2016/06/11" createDate="2016/05/30">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+                <ArrayElementObject maxDelay="-8" beginDate="2016/04/23" product="null" principalAmount="200.0" completeDate="2016/04/29" createDate="2016/04/23">
+                  <extensionData></extensionData>
+                  <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                  <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                  <credit maxDelay="-8" beginDate="2016/04/23" product="null" principalAmount="200.0" completeDate="2016/04/29" createDate="2016/04/23">
+                    <state parentValue="Състояние" value="Нормално обслужван" key="8c0dcfb7-dd21-4ab1-b3a0-9d5aa58eaa58" />
+                    <status parentValue="Статуси на кредита" value="Приключен" key="3b3efc6d-256d-49f4-882b-a0023290834b" />
+                    <substatus parentValue="Приключен" value="Приключен" key="9699dee9-f571-4e93-a8f0-d14e7928b931" />
+                  </credit>
+                </ArrayElementObject>
+              </allClientApplications>
+            </data>
+          </ParsedResponse>
+        </GetAllClientApplications>
+        <AddCreditDeptOpinion rawRequest="{ &quot;externalProposalId&quot; : &quot;1624BBE0-CCA5-4D90-8B0D-xxxxxxxxxxxx&quot;, &quot;comment&quot; : &quot;Личната карта е проверена. Моля, вижте статуса й в интерфейса&quot; }" />
+        <MarkApplicationForReview rawRequest="{ &quot;applicationNumber&quot; : &quot;1624BBE0-CCA5-4D90-8B0D-xxxxxxxxxxxx&quot; }" />
+      </SmartCheckAPI>
+      <OtherContracts>
+        <JSON _dollar_type="System.Collections.Generic.List`1[[OtherContracts.Common.Direct.Dto.OtherContractsDirectData, OtherContracts.Common]], mscorlib">
+          <_dollar_values>
+            <ArrayElementObject isSuccessful="true" partner="xxxxxxx" displayName="Partner 4" _dollar_type="OtherContracts.Common.Direct.Dto.OtherContractsDirectData, OtherContracts.Common">
+              <data _dollar_type="System.Collections.Generic.List`1[[OtherContracts.Common.Dto.Partners.OtherContractEntityHomeCollection, OtherContracts.Common]], mscorlib">
+                <_dollar_values>
+                  <ArrayElementObject Status="2001" ContractSum="123456.0" PaidPaymentsCount="0" MonthlyPayment="55.56" ClientAddress="Other partners different than xxxxxx" CreditIdentifier="12345678" CreditBeginDate="null" _dollar_type="OtherContracts.Common.Dto.Partners.OtherContractEntityHomeCollection, OtherContracts.Common" PeriodLength="0" ContractCreatedAt="2019-07-09T15:16:54.317" ClientIdentity="923490012998507" CompleteDate="null" ClientPhone="08889999898" MaxDelay="0" PaymentsCount="150" DelayedPaymentsCount="0" DelayedSum="0.0" CurrentDelay="5" />
+                </_dollar_values>
+              </data>
+            </ArrayElementObject>
+            <ArrayElementObject isSuccessful="true" partner="xxxxxx" displayName="Partner 6" _dollar_type="OtherContracts.Common.Direct.Dto.OtherContractsDirectData, OtherContracts.Common">
+              <data _dollar_type="System.Collections.Generic.List`1[[OtherContracts.Common.Dto.Partners.OtherContractEntityHomeCollection, OtherContracts.Common]], mscorlib">
+                <_dollar_values />
+              </data>
+            </ArrayElementObject>
+            <ArrayElementObject isSuccessful="true" partner="WarningList" displayName="Partner 9" _dollar_type="OtherContracts.Common.Direct.Dto.OtherContractsDirectData, OtherContracts.Common">
+              <data _dollar_type="System.Collections.Generic.List`1[[OtherContracts.Common.Dto.Partners.OtherContractEntityList, OtherContracts.Common]], mscorlib">
+                <_dollar_values />
+              </data>
+            </ArrayElementObject>
+            <ArrayElementObject isSuccessful="true" partner="Blacklist" displayName="Partner 10" _dollar_type="OtherContracts.Common.Direct.Dto.OtherContractsDirectData, OtherContracts.Common">
+              <data _dollar_type="System.Collections.Generic.List`1[[OtherContracts.Common.Dto.Partners.OtherContractEntityList, OtherContracts.Common]], mscorlib">
+                <_dollar_values />
+              </data>
+            </ArrayElementObject>
+            <ArrayElementObject isSuccessful="true" partner="RestrictionList" displayName="Partner 11" _dollar_type="OtherContracts.Common.Direct.Dto.OtherContractsDirectData, OtherContracts.Common">
+              <data _dollar_type="System.Collections.Generic.List`1[[OtherContracts.Common.Dto.Partners.OtherContractEntityList, OtherContracts.Common]], mscorlib">
+                <_dollar_values />
+              </data>
+            </ArrayElementObject>
+            <ArrayElementObject isSuccessful="true" partner="AKPZ" displayName="Partner 7" _dollar_type="OtherContracts.Common.Direct.Dto.OtherContractsDirectData, OtherContracts.Common">
+              <data _dollar_type="System.Collections.Generic.List`1[[OtherContracts.Common.Dto.Partners.OtherContractEntityHomeCollection, OtherContracts.Common]], mscorlib">
+                <_dollar_values />
+              </data>
+            </ArrayElementObject>
+          </_dollar_values>
+        </JSON>
+      </OtherContracts>
+      <ECheckCore>
+        <CheckCCRInformation rawRequest="&lt;soap:Envelope xmlns:soap=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&gt;&lt;soap:Body xmlns:tns=&quot;http://tempuri.org/&quot; xmlns:tns10=&quot;http://schemas.datacontract.org/2004/07/SmartIT.Core.ExternalRequests&quot;&gt;&lt;tns:GetCcrInformation&gt;&lt;tns:identifier&gt;8888888888&lt;/tns:identifier&gt;&lt;tns:checkPeriod&gt;&lt;tns10:_x003C_EndDate_x003E_k__BackingField&gt;2019-07-09&lt;/tns10:_x003C_EndDate_x003E_k__BackingField&gt;&lt;tns10:_x003C_StartDate_x003E_k__BackingField&gt;2019-04-09&lt;/tns10:_x003C_StartDate_x003E_k__BackingField&gt;&lt;/tns:checkPeriod&gt;&lt;tns:userID&gt;D464B048-6808-4C67-A396-80FDE46151C6&lt;/tns:userID&gt;&lt;tns:checkCondition&gt;1&lt;/tns:checkCondition&gt;&lt;/tns:GetCcrInformation&gt;&lt;/soap:Body&gt;&lt;/soap:Envelope&gt;" rawResponse="&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&gt;&lt;s:Body&gt;&lt;GetCcrInformationResponse&gt;&lt;GetCcrInformationResult&gt;&lt;BalanceExposition&gt;0&lt;/BalanceExposition&gt;&lt;Code nil=&quot;true&quot;/&gt;&lt;CreditCount&gt;0&lt;/CreditCount&gt;&lt;CreditsSum&gt;0&lt;/CreditsSum&gt;&lt;DelayedSum&gt;0&lt;/DelayedSum&gt;&lt;FinancialInstitution&gt;0&lt;/FinancialInstitution&gt;&lt;IncorrectStatus&gt;false&lt;/IncorrectStatus&gt;&lt;IsNull&gt;true&lt;/IsNull&gt;&lt;NewlyCredits&gt;0&lt;/NewlyCredits&gt;&lt;RequestType&gt;NoCheckPerformed&lt;/RequestType&gt;&lt;Status&gt;Unknown&lt;/Status&gt;&lt;/GetCcrInformationResult&gt;&lt;/GetCcrInformationResponse&gt;&lt;/s:Body&gt;&lt;/s:Envelope&gt;">
+          <rawData>
+            <GetCcrInformationResult>
+              <BalanceExposition>0</BalanceExposition>
+              <Code nil="true" />
+              <CreditCount>0</CreditCount>
+              <CreditsSum>0</CreditsSum>
+              <DelayedSum>0</DelayedSum>
+              <FinancialInstitution>0</FinancialInstitution>
+              <IncorrectStatus>false</IncorrectStatus>
+              <IsNull>true</IsNull>
+              <NewlyCredits>0</NewlyCredits>
+              <RequestType>NoCheckPerformed</RequestType>
+              <Status>Unknown</Status>
+            </GetCcrInformationResult>
+          </rawData>
+        </CheckCCRInformation>
+        <GetScoring rawRequest="&lt;soap:Envelope xmlns:soap=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&gt;&lt;soap:Body xmlns:tns=&quot;http://tempuri.org/&quot;&gt;&lt;tns:GetScoring&gt;&lt;tns:applicationId&gt;1624BBE0-CCA5-4D90-8B0D-xxxxxxxxxxxx&lt;/tns:applicationId&gt;&lt;/tns:GetScoring&gt;&lt;/soap:Body&gt;&lt;/soap:Envelope&gt;" rawResponse="&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&gt;&lt;s:Body&gt;&lt;GetScoringResponse&gt;&lt;GetScoringResult&gt;&lt;AdditionalAttributes/&gt;&lt;ErrorMessage/&gt;&lt;IsRDuckScoring&gt;false&lt;/IsRDuckScoring&gt;&lt;ScoreClass&gt;1&lt;/ScoreClass&gt;&lt;ScoreToCalculate&gt;12&lt;/ScoreToCalculate&gt;&lt;Scoring&gt;0&lt;/Scoring&gt;&lt;ScoringType&gt;0&lt;/ScoringType&gt;&lt;/GetScoringResult&gt;&lt;/GetScoringResponse&gt;&lt;/s:Body&gt;&lt;/s:Envelope&gt;">
+          <GetScoringResponse>
+            <GetScoringResult errorMessage="" isRDuckScoring="false" scoreClass="1" scoring="0" scoringType="0" />
+          </GetScoringResponse>
+        </GetScoring>
+        <HasValidIDCard rawRequest="&lt;soap:Envelope xmlns:soap=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&gt;&lt;soap:Body xmlns:tns=&quot;http://tempuri.org/&quot;&gt;&lt;tns:HasValidIDCard&gt;&lt;tns:idCardNumber&gt;888888888&lt;/tns:idCardNumber&gt;&lt;tns:EGN&gt;8888888888&lt;/tns:EGN&gt;&lt;/tns:HasValidIDCard&gt;&lt;/soap:Body&gt;&lt;/soap:Envelope&gt;" rawResponse="&lt;s:Envelope xmlns:s=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot;&gt;&lt;s:Body&gt;&lt;HasValidIDCardResponse&gt;&lt;HasValidIDCardResult&gt;false&lt;/HasValidIDCardResult&gt;&lt;/HasValidIDCardResponse&gt;&lt;/s:Body&gt;&lt;/s:Envelope&gt;">
+          <parsedData hasValidIDCardResult="false" />
+        </HasValidIDCard>
+      </ECheckCore>
+    </InternalDataLayer>
+  </ExternalRawData>
+  <Audits>
+    <Audit category="" comments="Loop Audit" item="" name="SmartCheckGetAuthorizationToken" report="" result="CONTINUE" source="SmartCheckGetAuthorizationToken" sourcefield="" starttime="2019-07-09 12:16:53.720 GMT" type="Performance" value="" endtime="2019-07-09 12:16:53.848 GMT" />
+    <Audit category="" comments="Get Authorization Token passed sucessfully" item="" name="GetAuthorizationToken" report="" result="CONTINUE" source="SmartCheck" sourcefield="" starttime="2019-07-09 12:16:53.718 GMT" type="Performance" value="" endtime="2019-07-09 12:16:53.860 GMT" />
+    <Audit category="" comments="Loop Audit" item="" name="SmartCheckGetCreditApplicationData" report="" result="CONTINUE" source="SmartCheckGetCreditApplicationData" sourcefield="" starttime="2019-07-09 12:16:53.867 GMT" type="Performance" value="" endtime="2019-07-09 12:16:54.024 GMT" />
+    <Audit category="" comments="Get Application data call passed sucessfully" item="" name="GetCreditApplicaitonData" report="" result="CONTINUE" source="SmartCheck" sourcefield="" starttime="2019-07-09 12:16:53.863 GMT" type="Performance" value="" endtime="2019-07-09 12:16:54.046 GMT" />
+    <Audit category="" comments="Loop Audit" item="" name="SmartCheckGetClientData" report="" result="CONTINUE" source="SmartCheckGetClientData" sourcefield="" starttime="2019-07-09 12:16:54.055 GMT" type="Performance" value="" endtime="2019-07-09 12:16:54.165 GMT" />
+    <Audit category="" comments="Get Client Data passed sucessfuly" item="" name="GetCreditApplicaitonData" report="" result="CONTINUE" source="SmartCheck" sourcefield="" starttime="2019-07-09 12:16:54.051 GMT" type="Performance" value="" endtime="2019-07-09 12:16:54.176 GMT" />
+   </Audits>
+  <Provenir ID="">
+    <Rules>
+      <Rule guid="repoObj_0ec535200_16b2255f9db_07fea16b2255f9db" ID="ProductGroupsforScoring" Description="Product Groups For Scoring" Timestamp="2019-07-09T12:16:56Z" Severity="" Override="0" AllowOverride="" />
+      <Rule guid="repoObj_2e330517_16b23030fa3_07fec16b23030fa3" ID="xxxxxx" Description="First Time Client" Timestamp="2019-07-09T12:16:56Z" Severity="" Override="0" AllowOverride="" />
+      <Rule guid="repoObj_0b27457b1_16b0332b19a_07fed16b0332b19a" ID="xxxxxx" Description="Age 21 or Over" Timestamp="2019-07-09T12:16:56Z" Severity="" Override="0" AllowOverride="" />
+    </Rules>
+    <Journals>
+      <Journal Type="Rule" ID="xxxxxx" Timestamp="Tue Jul 09 12:16:54 UTC 2019" Status="false" />
+      <Journal Type="Rule" ID="xxxxxx" Timestamp="Tue Jul 09 12:16:54 UTC 2019" Status="false" />
+      <Journal Type="Rule" ID="xxxxxx" Timestamp="Tue Jul 09 12:16:54 UTC 2019" Status="false" />
+      <Journal Type="Rule" ID="sggaga" Timestamp="Tue Jul 09 12:16:54 UTC 2019" Status="false" />
+      <Journal Type="Rule" ID="sgadfga" Timestamp="Tue Jul 09 12:16:56 UTC 2019" Status="false" />
+      <Journal Type="Rule" ID="sgdadsgaa" Timestamp="Tue Jul 09 12:16:56 UTC 2019" Status="false" />
+      <Journal Type="Rule" ID="agfag" Timestamp="Tue Jul 09 12:16:56 UTC 2019" Status="true" />
+      <Journal Type="Rule" ID="xxxxxx" Timestamp="Tue Jul 09 12:16:56 UTC 2019" Status="true" />
+      <Journal Type="Rule" ID="xxxxxx" Timestamp="Tue Jul 09 12:16:56 UTC 2019" Status="true" />
+      <Journal Type="Rule" ID="\sgsrgea" Timestamp="Tue Jul 09 12:16:57 UTC 2019" Status="false" />
+      <Journal Type="Rule" ID="rrgaergerg" Timestamp="Tue Jul 09 12:16:57 UTC 2019" Status="false" />
+      <Journal Type="Rule" ID="ergaergearg" Timestamp="Tue Jul 09 12:16:57 UTC 2019" Status="CONTINUE" />
+      <Journal Type="Rule" ID="Ceargaegreg" Timestamp="Tue Jul 09 12:16:57 UTC 2019" Status="CONTINUE" />
+      <Journal Type="Rule" ID="aergaergaee" Timestamp="Tue Jul 09 12:16:57 UTC 2019" Status="STOP" />
+    </Journals>
+  </Provenir>
+</Data>
