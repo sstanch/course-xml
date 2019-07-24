@@ -6,3 +6,8 @@ td, th {
     border: 1px solid blue;
     padding: 3px 5px;
 }
+
+textarea {
+    width: 800px;
+    height: 200px;
+}
