@@ -1,18 +1,28 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8">
     <title>Credit Sample Data</title>
     <link rel="stylesheet" type="text/css" href="main.css">
 </head>
+
 <body onload="init()">
     <h1>Credits Data</h1>
     <section id="applications">
         <h2>Current Application</h2>
         <div id="current-application"></div>
-        <div id="application-errors"></div>
+    </section>
+    <section id="credits">
+        <h2>Previous Credits</h2>
+        <div id="previous-credits"></div>
+    </section>
+    <div id="application-errors"></div>
+    <section>
+        <h2>XML Document</h2>
         <textarea id="xml-document" readonly="readonly"></textarea>
     </section>
     <script type="text/javascript" src="credits.js"></script>
 </body>
+
 </html>

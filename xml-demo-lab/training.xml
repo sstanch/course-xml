@@ -1,4 +1,5 @@
-﻿<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" transactionID="DE01ab32264_16bd639946f_0735816bd69bb5bf_0a1f04cb.6">
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" transactionID="DE01ab32264_16bd639946f_0735816bd69bb5bf_0a1f04cb.6">
   <MFG>
     <Application applicationNumber="1624BBE0-CCA5-4D90-8B0D-xxxxxxxxxxxx" businessUnit="3593" dateOfCurrentApplication="2019/05/31" applicationPrincipalAmount="200.0" mobilePhone="88888888" applicationEmail="test@gmail.bg" clientConsentNOI="null" clientConsentNOIDate="null" product="41" businessUnitName="VivaCredit">
       <ApplicationChannel applicationChannelParent="InputChannels" applicationChannelName="Шоп" applicationChannelID="100346" />
